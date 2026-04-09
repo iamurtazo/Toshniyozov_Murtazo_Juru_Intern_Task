@@ -1,0 +1,12 @@
+year,population,urban,rural,source
+2015,182955,,,navstat.uz / stat.uz
+2016,186165,,,interpolated
+2017,189375,,,interpolated
+2018,192585,,,interpolated
+2019,195795,,,interpolated
+2020,199005,,,navstat.uz / stat.uz
+2021,201900,,,wikipedia
+2022,205839,,,interpolated
+2023,209777,,,navstat.uz / stat.uz
+2024,213100,,,interpolated
+2025,216400,49300,167100,navstat.uz
